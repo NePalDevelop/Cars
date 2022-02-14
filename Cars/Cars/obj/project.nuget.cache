@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P2wkpWyxecUOU8R2bYVU9G7dnpXaKVnjd/hH0DYUPVbzz1vlB4gmP3bSr3ybrGZqSYQViy80vKL7G5NPOa9OIQ==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\repos\\Cars\\Cars\\Cars\\Cars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nepal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

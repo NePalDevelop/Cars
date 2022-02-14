@@ -1,0 +1,16 @@
+D:\C#\repos\Cars\Cars\Cars\bin\Debug\net5.0\Cars.exe
+D:\C#\repos\Cars\Cars\Cars\bin\Debug\net5.0\Cars.deps.json
+D:\C#\repos\Cars\Cars\Cars\bin\Debug\net5.0\Cars.runtimeconfig.json
+D:\C#\repos\Cars\Cars\Cars\bin\Debug\net5.0\Cars.runtimeconfig.dev.json
+D:\C#\repos\Cars\Cars\Cars\bin\Debug\net5.0\Cars.dll
+D:\C#\repos\Cars\Cars\Cars\bin\Debug\net5.0\ref\Cars.dll
+D:\C#\repos\Cars\Cars\Cars\bin\Debug\net5.0\Cars.pdb
+D:\C#\repos\Cars\Cars\Cars\obj\Debug\net5.0\Cars.csproj.AssemblyReference.cache
+D:\C#\repos\Cars\Cars\Cars\obj\Debug\net5.0\Cars.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\repos\Cars\Cars\Cars\obj\Debug\net5.0\Cars.AssemblyInfoInputs.cache
+D:\C#\repos\Cars\Cars\Cars\obj\Debug\net5.0\Cars.AssemblyInfo.cs
+D:\C#\repos\Cars\Cars\Cars\obj\Debug\net5.0\Cars.csproj.CoreCompileInputs.cache
+D:\C#\repos\Cars\Cars\Cars\obj\Debug\net5.0\Cars.dll
+D:\C#\repos\Cars\Cars\Cars\obj\Debug\net5.0\ref\Cars.dll
+D:\C#\repos\Cars\Cars\Cars\obj\Debug\net5.0\Cars.pdb
+D:\C#\repos\Cars\Cars\Cars\obj\Debug\net5.0\Cars.genruntimeconfig.cache
