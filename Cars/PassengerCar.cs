@@ -4,8 +4,8 @@ namespace Cars
 {
     public class PassengerCar : Car
     {
-        public const int PassengersMax = 4;
-        public const double ReducingPathforeachPassenger = 0.06;
+        private const int PassengersMax = 4;
+        private const double ReducingPathforeachPassenger = 0.06;
         private int _passengersCurrent;
 
         public int PassengersCurrent {
@@ -25,7 +25,7 @@ namespace Cars
 
         public PassengerCar(double consuptionFuel, double capacityTank, double currentFuelLevel, double velocity,
             int passengersCurrent)
-            : base(TypeOfTransport.Passenger, consuptionFuel, capacityTank, currentFuelLevel, velocity)
+            : base(TransportsType.Passenger, consuptionFuel, capacityTank, currentFuelLevel, velocity)
         {
             PassengersCurrent = passengersCurrent;
         }

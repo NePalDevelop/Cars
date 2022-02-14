@@ -4,9 +4,9 @@ namespace Cars
 {
     public class Truck : Car
     {
-        public const double CargoCapacity = 3000;
-        public const double ReducingPathforBlocks = 0.04;
-        public const double BlockWeight = 200;
+        private const double CargoCapacity = 3000;
+        private const double ReducingPathforBlocks = 0.04;
+        private const double BlockWeight = 200;
         private double _currentWeight;
 
         public double CurrentWeight
@@ -27,7 +27,7 @@ namespace Cars
 
         public Truck(double consuptionFuel, double capacityTank, double currentFuelLevel, double velocity,
             double currentWeight)
-            : base (TypeOfTransport.Truck, consuptionFuel, capacityTank, currentFuelLevel, velocity)
+            : base (TransportsType.Truck, consuptionFuel, capacityTank, currentFuelLevel, velocity)
         {
             _currentWeight = currentWeight;
         }
