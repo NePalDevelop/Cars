@@ -4,7 +4,7 @@ namespace Cars
 {
     public class Truck : Car
     {
-        public const double CargoCapacity = 10000;
+        public const double CargoCapacity = 3000;
         public const double ReducingPathforBlocks = 0.04;
         public const double BlockWeight = 200;
         private double _currentWeight;
